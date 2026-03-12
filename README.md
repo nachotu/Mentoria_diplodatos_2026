@@ -1,5 +1,5 @@
 # Predicción de riesgo de diabetes en población argentina
-Este repositorio forma parte de una propuesta de mentoría para la **Diplomatura en Ciencia de Datos de la Universidad Nacional de Córdoba (UNC)** y busca utilizar la "Encuesta Nacional de Factores de Riesgo 2018" para analizar factores asociados a la diabetes y entrenar modelos de aprendizaje supervisado que permitan predecir su probabilidad a partir de variables demográficas de estilo de vida y salud.
+Este repositorio forma parte de una propuesta de mentoría para la **Diplomatura en Ciencia de Datos de la Universidad Nacional de Córdoba (UNC)** y busca utilizar la "Encuesta Nacional de Factores de Riesgo 2018" para analizar factores asociados a la diabetes y entrenar modelos de aprendizaje supervisado que permitan predecir su probabilidad a partir de variables demográficas, de estilo de vida y salud.
 
 ---
 
