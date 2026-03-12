@@ -23,7 +23,7 @@ El objetivo final es construir modelos capaces de clasificar o estimar la probab
 
 ## Dataset
 
-El proyecto utiliza datos de la **Encuesta Nacional de Factores de Riesgo 2018**, una encuesta poblacional realizada por el Ministerio de Salud de la Nación Argentina.
+El proyecto utiliza la **Encuesta Nacional de Factores de Riesgo 2018**, una encuesta poblacional realizada por el Ministerio de Salud de la Nación Argentina.
 
 Características principales del dataset:
 
